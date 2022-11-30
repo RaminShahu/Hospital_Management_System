@@ -1,0 +1,18 @@
+                                  This File Holds THE DATA OF ALL THE PATIENT                                
+
+
+1
+Name: UIO
+Phone No: 89769T7
+Adress: V VVKUY
+Email: J VUIY
+Reason for visit: 
+Medicare Status: Not Covered throught medicare.
+Patient treated by doctor: Aabis Musa
+Reason for visit: JF IUY
+Medication prescribed by doctor: MHIH OUHOBIU
+Extra Care Status: Patient did not require extra care.
+Treated by specialist doctor: NONE.
+Medication prescribed by specialist doctor: NONE.
+Stay Period: 0
+Room Type: NONE

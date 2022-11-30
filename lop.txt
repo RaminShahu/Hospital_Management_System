@@ -1,0 +1,33 @@
+                                  This File Holds THE DATA OF ALL THE PATIENT                                
+
+
+1
+Name: VBH
+Phone No: 2345234564
+Adress: ER GERT
+Email: E GERT
+Reason for visit: 
+Medicare Status: Not Covered throught medicare.
+Patient treated by doctor: Poojan Patel
+Reason for visit: GBRTBH YF
+Medication prescribed by doctor: RTGHT E
+Extra Care Status: Patient did not require extra care.
+Treated by specialist doctor: NONE.
+Medication prescribed by specialist doctor: NONE.
+Stay Period: 0
+Room Type: NONE
+2
+Name: VBN
+Phone No: 23425354
+Adress: RF ERG
+Email: FREF ER
+Reason for visit: 
+Medicare Status: Not Covered throught medicare.
+Patient treated by doctor: Aabis Musa
+Reason for visit: WF EWR
+Medication prescribed by doctor: RF GERBG
+Extra Care Status: Patient did not require extra care.
+Treated by specialist doctor: NONE.
+Medication prescribed by specialist doctor: NONE.
+Stay Period: 0
+Room Type: NONE

@@ -1,0 +1,35 @@
+                                  This File Holds THE DATA OF ALL THE PATIENT                                
+
+
+1
+Name: RTY
+Phone No: 23456787
+Adress: FRGETHG
+Email: ERG GDFH
+Reason for visit: 
+Medicare Status: Not Covered throught medicare.
+Patient treated by doctor: Poojan Patel
+Reason for visit: EWRFG GERH 
+Medication prescribed by doctor: 
+Medication prescribed by doctor: REGTHT TRDH
+Extra Care Status: Patient did not require extra care.
+Treated by specialist doctor: NONE.
+Medication prescribed by specialist doctor: NONE.
+Stay Period: 0
+Room Type: NONE
+
+Name: RAMIN
+Phone No: 132456
+Adress: HT DGRTHR
+Email: REGTGSHG
+Reason for visit: 
+Medicare Status: Not Covered throught medicare.
+Patient treated by doctor: Aabis Musa
+Reason for visit: ETRTTSEG F
+Medication prescribed by doctor: 
+Medication prescribed by doctor: G TGD
+Extra Care Status: Patient did not require extra care.
+Treated by specialist doctor: NONE.
+Medication prescribed by specialist doctor: NONE.
+Stay Period: 0
+Room Type: NONE
