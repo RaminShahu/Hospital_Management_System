@@ -22,10 +22,8 @@ The system has 6 main functionality:
 
 
 The role of a user changes in the system for example initially a user is receptionist after they register the patient,select doctor for them and add other details.
-
 The user starts acting as a doctor and follows it roles by prescribing medication and advising to go to specialist doctor if needed(Role will change to specialsist doctor). 
-
- The specialist doctor has the ability to prescribe additional medication and ask patient to stay at hospital for certain number of days.(RP)
+The specialist doctor has the ability to prescribe additional medication and ask patient to stay at hospital for certain number of days.(RP)
  
 
  All the data of the patient is stored in a text file and a user has functionality to search patient which will give user the details of the patient.(CRCP)
